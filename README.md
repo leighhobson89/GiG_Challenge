@@ -2,6 +2,12 @@
 QA Technical Challenge
 Leigh Hobson 2018
 
+Task 1:
+
+It is saved as "BDD_Task.docx" in this repository.
+
+Task2:
+
 - Navigate to gigChallenge repository (you already have!)
 - Run "protractor conf.js --suite register" for Scenario 1
 - Run "protractor conf.js --suite login" for Scenario 2
